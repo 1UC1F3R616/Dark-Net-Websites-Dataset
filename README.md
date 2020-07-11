@@ -1,15 +1,18 @@
 # Dark Net Websites Dataset
 
 This repository contains scraped websites from DarkNet that were active at that time
+
 Update Frequency: Monthly
 
 Note: Next datasets will not be keyworded instead code for making them clean will be provided, so to make the dataset more customizable
 
 Use-Cases: Data-Analysis, Onion-site-Dataset, Search-Engine, Elastic-Search
 
-Crawler used is [this](github.com/1UC1F3R616/onion-crawler)
+Crawler used is [this](https://github.com/1UC1F3R616/onion-crawler)
 
 Issues and Suggestions are welcome!
+
+Missing your website? ==> Create an issue for addition of your requested website
 
 ---------------------------------------------
 
